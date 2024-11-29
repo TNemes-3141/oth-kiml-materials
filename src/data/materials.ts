@@ -197,6 +197,10 @@ export const semesterMaterials: SemesterMaterials[] = [
             unlockTime: new Date("2024-12-06T12:00:00"),
           }
         ]
+      },
+      {
+        number: 4,
+        materials: [],
       }
     ]
   },
