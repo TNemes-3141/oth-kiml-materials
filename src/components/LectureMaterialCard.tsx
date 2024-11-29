@@ -4,16 +4,14 @@ import ButtonLinkList from "./ButtonLinkList";
 
 type LectureMaterialCardProps = {
     title: string,
-    unitNumber: number,
     links: AnnotatedLink[],
 }
 
-export default function LectureMaterialCard({ title, unitNumber, links }: LectureMaterialCardProps) {
+export default function LectureMaterialCard({ title, links }: LectureMaterialCardProps) {
     return (
-        <Card className="p-2 min-w-[40%]">
+        <Card className="p-2 min-w-[40%]" shadow="sm">
             <CardHeader className="flex flex-col items-center text-center">
                 <p className="font-bold">{title}</p>
-                <p className="text-gray-500 text-sm">Einheit {unitNumber}</p>
             </CardHeader>
             <CardBody className="gap-4">
                 {

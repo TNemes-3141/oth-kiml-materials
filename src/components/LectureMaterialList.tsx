@@ -20,7 +20,6 @@ export default function LectureMaterialList({ materials }: LectureMaterialListPr
                             <LectureMaterialCard
                                 key={index}
                                 title={material.title}
-                                unitNumber={material.unitNumber}
                                 links={material.links}
                             />
                         );

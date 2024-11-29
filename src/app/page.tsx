@@ -3,7 +3,7 @@ import MaterialSelector from "@/components/MaterialSelector";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-start p-24">
+    <main className="flex min-h-screen flex-col items-center justify-start lg:p-24 p-12">
       <div className="text-center">
         <p className="text-lg mb-2.5">AW Künstliche Intelligenz und Maschinelles Lernen</p>
         <p className="text-gray-500 text-sm mb-8">Grünbauer, René; Nemes, Tamás - OTH Regensburg</p>
