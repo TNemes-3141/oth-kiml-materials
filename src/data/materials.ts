@@ -81,7 +81,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://gifyu.com/image/SGlg6",
               },
             ],
-            unlockTime: new Date("2024-11-30T10:00:00"),
+            unlockTime: new Date("2024-11-30T09:00:00"),
           },
           {
             title: "Mitmachübung: Trainieren eines neuronalen Netzwerks",
@@ -95,7 +95,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://github.com/TNemes-3141/neural-networks-demo",
               },
             ],
-            unlockTime: new Date("2024-11-30T11:00:00"),
+            unlockTime: new Date("2024-11-30T09:00:00"),
           },
           {
             title: "Neural Networks (Videoreihe) von 3Blue1Brown",
@@ -105,7 +105,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://www.youtube.com/playlist?list=PLgxo3DDiqnvAmMOTzZbgD9d4gtQ9V7Lig",
               },
             ],
-            unlockTime: new Date("2024-11-30T11:00:00"),
+            unlockTime: new Date("2024-11-30T09:00:00"),
           },
           {
             title: "Splitting in Decision Trees (Animiertes GIF)",
@@ -115,7 +115,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://gifyu.com/image/SGl4j",
               },
             ],
-            unlockTime: new Date("2024-11-30T12:00:00"),
+            unlockTime: new Date("2024-11-30T13:00:00"),
           },
           {
             title: "Demo für DTL-Komplexität",
@@ -125,7 +125,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://www.desmos.com/calculator/wlt2aaf15m",
               },
             ],
-            unlockTime: new Date("2024-11-30T12:00:00"),
+            unlockTime: new Date("2024-11-30T13:00:00"),
           },
           {
             title: "Flappy Bird-Spielumgebung (Animiertes GIF)",
@@ -135,7 +135,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://gifyu.com/image/SGl4r",
               },
             ],
-            unlockTime: new Date("2024-11-30T15:00:00"),
+            unlockTime: new Date("2024-11-30T13:00:00"),
           },
           {
             title: "Mitmachübung: Frozen Lake-Game",
@@ -145,7 +145,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://tnemes-3141.github.io/q-learning-demo/",
               },
             ],
-            unlockTime: new Date("2024-11-30T15:00:00"),
+            unlockTime: new Date("2024-11-30T13:00:00"),
           }
         ]
       },
