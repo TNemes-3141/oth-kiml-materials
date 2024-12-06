@@ -160,7 +160,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://greitemann.dev/svm-demo",
               },
             ],
-            unlockTime: new Date("2024-12-06T09:00:00"),
+            unlockTime: new Date("2024-12-06T14:30:00"),
           },
           {
             title: "Visualisierung k-nearest neighbors (Animiertes GIF)",
@@ -170,7 +170,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://gifyu.com/image/SGnbt",
               },
             ],
-            unlockTime: new Date("2024-12-06T10:00:00"),
+            unlockTime: new Date("2024-12-06T15:00:00"),
           },
           {
             title: "K-means Clustering zum Ausprobieren",
@@ -180,7 +180,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "http://alekseynp.com/viz/k-means.html",
               },
             ],
-            unlockTime: new Date("2024-12-06T10:00:00"),
+            unlockTime: new Date("2024-12-06T15:00:00"),
           },
           {
             title: "Mitmachübung: Vor- und Nachbereitung eines Datensatzes",
@@ -194,7 +194,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://github.com/TNemes-3141/neural-networks-demo",
               },
             ],
-            unlockTime: new Date("2024-12-06T12:00:00"),
+            unlockTime: new Date("2024-12-06T16:00:00"),
           }
         ]
       },
