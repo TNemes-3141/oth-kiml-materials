@@ -200,7 +200,100 @@ export const semesterMaterials: SemesterMaterials[] = [
       },
       {
         number: 4,
-        materials: [],
+        materials: [
+          {
+            title: "Flappy Bird-Spielumgebung (Animiertes GIF)",
+            links: [
+              {
+                title: "Gifyu",
+                uri: "https://gifyu.com/image/SutJz",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T09:00:00"),
+          },
+          {
+            title: "Fashion-MNIST Inspektor",
+            links: [
+              {
+                title: "KnowYourData",
+                uri: "https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=fashion_mnist",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T09:30:00"),
+          },
+          {
+            title: "Kernels zum Ausprobieren",
+            links: [
+              {
+                title: "Filterlabor",
+                uri: "https://editor.p5js.org/MaschinenNah/full/PZYCjAsie",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T09:30:00"),
+          },
+          {
+            title: "CNN Explainer",
+            links: [
+              {
+                title: "Übung",
+                uri: "https://poloclub.github.io/cnn-explainer/",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T10:00:00"),
+          },
+          {
+            title: "Image-2-Image Demo",
+            links: [
+              {
+                title: "Interaktive GANs",
+                uri: "https://affinelayer.com/pixsrv/index.html",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T13:00:00"),
+          },
+          {
+            title: "Fooocus (Open source-Bildgenerator)",
+            links: [
+              {
+                title: "GitHub",
+                uri: "https://github.com/lllyasviel/Fooocus",
+              },
+              {
+                title: "HuggingFace Modell",
+                uri: "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9",
+              },
+              {
+                title: "CivitAI",
+                uri: "https://civitai.com/models/133005/juggernaut-xl",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T13:30:00"),
+          },
+          {
+            title: "Attention und Transformers (Videoreihen)",
+            links: [
+              {
+                title: "Playlist von StatQuest",
+                uri: "https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLgxo3DDiqnvA72eCg3Feqn0D7ooEu1lgB&index=3",
+              },
+              {
+                title: "Playlist von 3Blue1Brown",
+                uri: "https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLgxo3DDiqnvCozXT5wbttuszwPV0CdF8d&index=1",
+              }
+            ],
+            unlockTime: new Date("2024-12-07T14:00:00"),
+          },
+          {
+            title: "Machine Learning-Glossar",
+            links: [
+              {
+                title: "Google Developers",
+                uri: "https://developers.google.com/machine-learning/glossary",
+              },
+            ],
+            unlockTime: new Date("2024-12-07T15:00:00"),
+          }
+        ],
       }
     ]
   },
