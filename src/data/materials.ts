@@ -22,7 +22,7 @@ export interface AnnotatedLink {
 
 export const semesterMaterials: SemesterMaterials[] = [
   {
-    id: 2,
+    id: 0,
     name: "SS 2025",
     units: [
       {
@@ -604,7 +604,7 @@ export const semesterMaterials: SemesterMaterials[] = [
     ]
   },
   {
-    id: 0,
+    id: 2,
     name: "SS 2024",
     units: [
       {
