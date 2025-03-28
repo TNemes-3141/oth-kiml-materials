@@ -117,10 +117,10 @@ export const semesterMaterials: SemesterMaterials[] = [
             links: [
               {
                 title: "Gifyu",
-                uri: "https://gifyu.com/image/SuUcF",
+                uri: "https://gifyu.com/image/SGl4j",
               },
             ],
-            unlockTime: new Date("2025-04-19T14:45:00"),
+            unlockTime: new Date("2025-03-28T14:30:00"),
           },
           {
             title: "Demo für DTL-Komplexität",
@@ -130,27 +130,27 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://www.desmos.com/calculator/wlt2aaf15m",
               },
             ],
-            unlockTime: new Date("2025-04-19T15:00:00"),
+            unlockTime: new Date("2025-03-28T14:30:00"),
           },
           {
             title: "Flappy Bird-Spielumgebung (Animiertes GIF)",
             links: [
               {
                 title: "Gifyu",
-                uri: "https://gifyu.com/image/SutJz",
+                uri: "https://gifyu.com/image/SGl4r",
               },
             ],
-            unlockTime: new Date("2025-04-19T17:00:00"),
+            unlockTime: new Date("2025-03-28T14:30:00"),
           },
           {
             title: "Mitmachübung: Frozen Lake-Game",
             links: [
               {
                 title: "Übung",
-                uri: "https://totemi1324.github.io/q-learning-demo/",
+                uri: "https://tnemes-3141.github.io/q-learning-demo/",
               },
             ],
-            unlockTime: new Date("2025-04-19T17:30:00"),
+            unlockTime: new Date("2025-03-28T14:30:00"),
           }
         ]
       },
@@ -165,27 +165,27 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://greitemann.dev/svm-demo",
               },
             ],
-            unlockTime: new Date("2025-04-20T09:00:00"),
+            unlockTime: new Date("2025-03-29T09:30:00"),
           },
           {
             title: "Visualisierung k-nearest neighbors (Animiertes GIF)",
             links: [
               {
                 title: "Gifyu",
-                uri: "https://gifyu.com/image/SQbqO",
+                uri: "https://gifyu.com/image/SGnbt",
               },
             ],
-            unlockTime: new Date("2025-04-20T09:00:00"),
+            unlockTime: new Date("2025-03-29T09:30:00"),
           },
           {
             title: "K-means Clustering zum Ausprobieren",
             links: [
               {
                 title: "Interaktiver Graph",
-                uri: "https://editor.p5js.org/MaschinenNah/full/Mlpq-o0q8",
+                uri: "http://alekseynp.com/viz/k-means.html",
               },
             ],
-            unlockTime: new Date("2025-04-20T09:00:00"),
+            unlockTime: new Date("2025-03-29T09:30:00"),
           },
           {
             title: "Mitmachübung: Vor- und Nachbereitung eines Datensatzes",
@@ -196,10 +196,10 @@ export const semesterMaterials: SemesterMaterials[] = [
               },
               {
                 title: "GitHub",
-                uri: "https://github.com/Totemi1324/neural-networks-demo",
+                uri: "https://github.com/TNemes-3141/neural-networks-demo",
               },
             ],
-            unlockTime: new Date("2025-04-20T09:00:00"),
+            unlockTime: new Date("2025-03-29T09:30:00"),
           }
         ]
       },
