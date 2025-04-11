@@ -210,11 +210,11 @@ export const semesterMaterials: SemesterMaterials[] = [
             title: "Fashion-MNIST Inspektor",
             links: [
               {
-                title: "KnowYourData",
-                uri: "https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=fashion_mnist",
+                title: "HuggingFace Data Viewer",
+                uri: "https://huggingface.co/datasets/zalando-datasets/fashion_mnist/viewer",
               },
             ],
-            unlockTime: new Date("2025-04-26T14:30:00"),
+            unlockTime: new Date("2025-04-11T14:30:00"),
           },
           {
             title: "Kernels zum Ausprobieren",
@@ -224,7 +224,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://editor.p5js.org/MaschinenNah/full/PZYCjAsie",
               },
             ],
-            unlockTime: new Date("2025-04-26T15:00:00"),
+            unlockTime: new Date("2025-04-11T14:30:00"),
           },
           {
             title: "CNN Explainer",
@@ -234,7 +234,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://poloclub.github.io/cnn-explainer/",
               },
             ],
-            unlockTime: new Date("2025-04-26T15:00:00"),
+            unlockTime: new Date("2025-04-11T14:30:00"),
           }
         ]
       },
@@ -249,7 +249,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://gifyu.com/image/SQWlT",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Attention und Transformers (Videoreihe) von StatQuest",
@@ -259,7 +259,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLgxo3DDiqnvA72eCg3Feqn0D7ooEu1lgB&index=3",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Image-2-Image Demo",
@@ -269,7 +269,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://affinelayer.com/pixsrv/index.html",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Text Generation Web-UI (Open source-Textgenerator)",
@@ -283,7 +283,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Fooocus (Open source-Bildgenerator)",
@@ -301,7 +301,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://civitai.com/models/133005/juggernaut-xl",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Data Labeling-Simulation",
@@ -311,7 +311,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://labelstud.io/playground/",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
             title: "Machine Learning-Glossar",
@@ -321,7 +321,7 @@ export const semesterMaterials: SemesterMaterials[] = [
                 uri: "https://developers.google.com/machine-learning/glossary",
               },
             ],
-            unlockTime: new Date("2025-04-27T09:00:00"),
+            unlockTime: new Date("2025-04-12T09:00:00"),
           }
         ]
       }
