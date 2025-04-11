@@ -242,45 +242,11 @@ export const semesterMaterials: SemesterMaterials[] = [
         number: 6,
         materials: [
           {
-            title: "Das LSTM-Modul (Animiertes GIF)",
-            links: [
-              {
-                title: "Gifyu",
-                uri: "https://gifyu.com/image/SQWlT",
-              },
-            ],
-            unlockTime: new Date("2025-04-12T09:00:00"),
-          },
-          {
-            title: "Attention und Transformers (Videoreihe) von StatQuest",
-            links: [
-              {
-                title: "Playlist",
-                uri: "https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLgxo3DDiqnvA72eCg3Feqn0D7ooEu1lgB&index=3",
-              },
-            ],
-            unlockTime: new Date("2025-04-12T09:00:00"),
-          },
-          {
             title: "Image-2-Image Demo",
             links: [
               {
                 title: "Interaktive GANs",
                 uri: "https://affinelayer.com/pixsrv/index.html",
-              },
-            ],
-            unlockTime: new Date("2025-04-12T09:00:00"),
-          },
-          {
-            title: "Text Generation Web-UI (Open source-Textgenerator)",
-            links: [
-              {
-                title: "GitHub",
-                uri: "https://github.com/oobabooga/text-generation-webui",
-              },
-              {
-                title: "HuggingFace Modell",
-                uri: "https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF",
               },
             ],
             unlockTime: new Date("2025-04-12T09:00:00"),
@@ -304,12 +270,16 @@ export const semesterMaterials: SemesterMaterials[] = [
             unlockTime: new Date("2025-04-12T09:00:00"),
           },
           {
-            title: "Data Labeling-Simulation",
+            title: "Attention und Transformers (Videoreihen)",
             links: [
               {
-                title: "Label Studio",
-                uri: "https://labelstud.io/playground/",
+                title: "Playlist von StatQuest",
+                uri: "https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLgxo3DDiqnvA72eCg3Feqn0D7ooEu1lgB&index=3",
               },
+              {
+                title: "Playlist von 3Blue1Brown",
+                uri: "https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLgxo3DDiqnvCozXT5wbttuszwPV0CdF8d&index=1",
+              }
             ],
             unlockTime: new Date("2025-04-12T09:00:00"),
           },
